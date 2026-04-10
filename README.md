@@ -12,7 +12,7 @@
 - **Public  (11-ое место)**: 0.91182
 
 ## Веса модели:
-
+https://disk.yandex.ru/d/iVgSUPW3-E6JIw
 
 ## Соревнование на kaggle:
 https://www.kaggle.com/competitions/dl-lab-3-product-segmentation
