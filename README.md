@@ -9,10 +9,10 @@
 
 ## Результат на LB:
 - **Private (???-ое место)**: ???
-- **Public  (???-ое место)**: ???
+- **Public  (11-ое место)**: 0.91182
 
 ## Веса модели:
-https://disk.yandex.ru/d/???
+
 
 ## Соревнование на kaggle:
-https://www.kaggle.com/competitions/???
+https://www.kaggle.com/competitions/dl-lab-3-product-segmentation
